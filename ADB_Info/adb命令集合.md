@@ -1,5 +1,4 @@
-## 执行命令要在adb.exe所在目录下
-
+## 执行命令要在adb.exe所在目录下 
 #### adb devices -l    
 列出当前主机上链接的设备地址和设备信息描述
 ```angular2html
